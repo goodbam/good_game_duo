@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "198968535354",
+    "project_id": "good-game-duo-24361",
+    "storage_bucket": "good-game-duo-24361.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198968535354:android:597ac7a3ed51bce8bec803",
+        "android_client_info": {
+          "package_name": "com.goodbam.good_game_duo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198968535354-10mhjupunfusuoe1fs4jg1euv4q2pue9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrSi2g4P7Q0eklf4L0KH1mOya1vOIEXK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198968535354-10mhjupunfusuoe1fs4jg1euv4q2pue9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198968535354-5f7rabm2l5roksi9mnm33biocnthc4rn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goodbam.goodGameDuo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
